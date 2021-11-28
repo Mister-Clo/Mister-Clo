@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mister-Clo
 - 👀 I’m interested in web development and programming mobile apps 
-- 🌱 I’m currently learning flutter - Reactjs - Python
+- 🌱 I’m currently learning flutter - Reactjs - Python - C#
 - 💞️ I’m looking to collaborate on real world and challenging projects inorder to develop my skills in my career
 - 📫 How to reach me :📧 tchoupouclotaire@gmail.com
 
